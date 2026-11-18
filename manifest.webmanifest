@@ -1,0 +1,16 @@
+{
+  "name": "环线 SILKLOOP",
+  "short_name": "环线",
+  "description": "亚欧非大环线免签攻略：从霍尔果斯到开罗，13 国 61 城，看过的页面离线也能查。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f1f1f1",
+  "theme_color": "#f1f1f1",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
